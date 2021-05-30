@@ -1,0 +1,107 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+    background-size: cover
+}
+
+#div1 {
+    margin-top: 30px;
+}
+
+#register{
+    width: 400px;
+    background-color: none;
+    bottom: 50px;
+    position: center;
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+input{
+    text-align;
+    border: 2px;
+    margin-left: 500px;
+    padding: 12px 10px;
+    border-radius:5px;
+    
+}
+#fname,#lname,#address ,#emailid,#phone,#password,#dob,#country{
+    width:350px;
+}
+    
+
+#Heading {
+    font-size: 30px;
+    margin-left: 590px;
+}
+
+#country{
+    width: 370px;
+    margin-left: 500px;
+    padding: 12px 10px;
+    border-radius: 5px;
+}
+
+#registerbtn {
+    width: 100px;
+    margin: 10px auto;
+    margin-left: 520px;
+    position: relative;
+    padding: 12px 10px;
+    border: 2px ;
+    border-radius: 10px;
+}
+
+#resetbtn {
+    width: 100px;
+    margin: 10px auto;
+    margin-left: 100px;
+    position: relative;
+    padding: 12px 10px;
+    border: 2px;
+    border-radius: 10px;
+}
+
+#checkbox1 {
+    width: 30px;
+    margin-left: 520px;
+}
+#terms {
+    margin-left: 5px;
+    color: white;
+}
+
+#address {
+    height: 70px;
+}
+#message{
+    margin-left:620px;
+    color:red;
+}
+#message2 {
+    margin-left: 620px;
+    color: red;
+}
+#message3 {
+    margin-left: 620px;
+    color: red;
+}
+#message4 {
+    margin-left: 620px;
+    color: red;
+}
+#message6 {
+    margin-left: 500px;
+    color: red;
+}
+#message7 {
+    margin-left: 600px;
+}
+#date{
+    margin-left:500px;
+}
+
+

@@ -1,0 +1,42 @@
+﻿body {
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(background.jpg);
+    background-size: cover;
+}
+input {
+    text-align;
+    border: 2px solid white;
+    margin-left: 500px;
+    padding: 12px 10px;
+    width: 350px;
+    border-radius:5px;
+}
+#login {
+  
+    height: 500px;
+    background-color: none;
+    top: 20px;
+    bottom: 50px;
+    position: center;
+    box-sizing: border-box;
+    padding: 70px 30px;
+}
+#heading{
+    font-size:30px;
+    margin-left:540px;
+}
+#loginbtn {
+    width: 100px;
+    margin: 10px auto;
+    margin-left: 620px;
+    position: relative;
+    padding: 12px 10px;
+    border: 2px;
+    border-radius: 10px;
+}
+#message1{
+    margin-left:620px;
+    color:red;
+}
+#loginmsg {
+    margin-left: 620px;
+}

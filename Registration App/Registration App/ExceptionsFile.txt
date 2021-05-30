@@ -1,0 +1,99 @@
+﻿Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error Location:Thread was being aborted.
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 0:00:00
+Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error Location:Thread was being aborted.
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 0:00:00
+Error Line No :line 51
+Error Message :SqlException
+Error Type:System.Data.SqlClient.SqlException
+Error Location:Login failed for user ''.
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 0:00:00
+Error Line No :line 51
+Error Message :SqlException
+Error Type:System.Data.SqlClient.SqlException
+Error Location:Login failed for user ''.
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 14:07:31
+Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 14:12:16
+Error Line No :line 35
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 14:20:35
+Error Line No :line 35
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 14:23:48
+Error Line No :line 35
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 14:44:35
+Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 14:56:25
+Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 15:19:03
+Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
+Log Date:5/28/2021 15:37:45
+Error Line No :line 36
+Error Message :ThreadAbortException
+Error Type:System.Threading.ThreadAbortException
+Error URL :https://localhost:44378/Registration
+---------------------------------------------------------------------
+
+
